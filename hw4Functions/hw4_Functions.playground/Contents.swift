@@ -138,7 +138,7 @@ func digitSum(number: inout Int) -> String {
     for characters in list {
         sumOfDigits += characters
     }
-    return ("Сумма цифр числа введенного числа = \(sumOfDigits)")
+    return ("Сумма цифр введенного числа = \(sumOfDigits)")
 }
 
 var nnn = 5515
