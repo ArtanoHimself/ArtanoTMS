@@ -1,2 +1,2 @@
 # ArtanoTMS
-Хранение домашнего задания
+TMS HW Repository
