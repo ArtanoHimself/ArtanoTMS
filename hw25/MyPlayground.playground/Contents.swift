@@ -18,7 +18,7 @@ class Person {
 
 class Apartment {
     let adress: String
-    weak var owner: Person? /*Если убрать значение "weak", то деинита не будет даже если освободить значения при помощи "nil"*/
+    weak var owner: Person? /*Если убрать значение "weak", то деинита не будет даже если освободить объекты при помощи "nil"*/
     
     init(adress: String, owner: Person? = nil) {
         self.adress = adress
