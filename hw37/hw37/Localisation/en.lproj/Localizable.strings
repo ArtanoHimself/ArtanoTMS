@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  hw37
+
+  Created by Artano on 5.12.24.
+  
+*/
+"Press me" = "Press me";
+"Attention" = "Attention";
+"Hello, user, do you like this custom alert, i've just made for you?" = "Hello user, do you like this custom alert, i've just made for you?";
+"No" = "No";
+"Yes" = "Yes";
+
+"Thanks, buddy, appreciate that" = "Thanks, buddy, appreciate that";
