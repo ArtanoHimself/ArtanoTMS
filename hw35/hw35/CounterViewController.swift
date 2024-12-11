@@ -4,7 +4,7 @@ import Combine
 
 class CounterViewController: UIViewController {
     
-    var viewModel: CounterViewModel
+    let viewModel: CounterViewModel
     var cancelables = Set<AnyCancellable>()
     
     init(viewModel: CounterViewModel) {
